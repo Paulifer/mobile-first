@@ -1,0 +1,37 @@
+#testimonios{
+  margin-top: 3em;
+  font-size: 1em;
+  text-align: center;
+}
+
+
+.turistas{
+  margin-top: 2em;
+  border: thistle 1px solid;
+  font-size: 0.5em;
+  width: 70%;
+  margin-left: 10vh;
+  margin-right: 10vh;
+  position: center;
+}
+
+.fotoTestimonios{
+  padding: 0;
+  margin: 0;
+}
+.testimonios{
+  padding: 0;
+  margin: 0;
+}
+
+#turista1{
+  width: 100%;;
+}
+
+#turista2{
+  width: 100%;;
+}
+
+#turista3{
+  width: 100%;;
+}
